@@ -44,4 +44,6 @@
   <a href="https://console.neon.tech/" target="_blank" rel="noreferrer"> <img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=2" alt="neon.tech" width="40" height="40"/> </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgalen&hide=css,scss,html)
+
 <p><strong>How to reach me:</strong> <a href="mailto:galennicholas@proton.me">galennicholas@proton.me</a></p>
