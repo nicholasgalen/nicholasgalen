@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nicholas Galen</h1>
-<h3 align="center">A programming enthusiast from Brazil, with interests in Game Programming, Machine Learning and Mobile Development.</h3>
+<h3 align="center">A programming enthusiast from Brazil, with interests in Backend, Mobile and Software development!</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
