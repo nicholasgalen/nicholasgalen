@@ -44,6 +44,6 @@
   <a href="https://console.neon.tech/" target="_blank" rel="noreferrer"> <img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c?size=2" alt="neon.tech" width="40" height="40"/> </a>
 </p>
 
-![Top Langs](https://camo.githubusercontent.com/c0586258319af3e1d03db0882adeede5b1c90efbbba0079b19cbb2f013e7e4cc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e6963686f6c617367616c656e26686964653d6373732c736373732c68746d6c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasgalen&hide=html,css)
 
 <p><strong>How to reach me:</strong> <a href="mailto:galennicholas@proton.me">galennicholas@proton.me</a></p>
